@@ -3,7 +3,9 @@ The program will also work if u r not connect to the Wifi .
 ____________________________________________________________________________
  
 DOS == Denial Of Service 
-DOS == It is a cyber-attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to the Internet
+DOS == It is a cyber-attack in which the perpetrator seeks to make a machine or network 
+       resource unavailable to its intended users by temporarily or indefinitely 
+       disrupting services of a host connected to the Internet
 On Wi-Fi == Deconnect clients sending Packets
 ____________________________________________________________________________
 
